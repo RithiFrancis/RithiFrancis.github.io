@@ -1,0 +1,27 @@
+body {
+    color: #1c1c20;
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand{
+    color:#34495E;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+section {
+    border: 1px solid #000;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 20px;
+    background-color:#DB79AA;
+    
+}
